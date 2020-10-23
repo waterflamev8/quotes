@@ -1,3 +1,3 @@
 # quotes
 
-### A **very cool** repo that fetches a **very inspiring** code from this [API](https://github.com/lukePeavey/quotable) 😮
+### A **very cool** repo that fetches a **very inspiring** quote from this [API](https://github.com/lukePeavey/quotable) 😮
