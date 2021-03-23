@@ -22,7 +22,7 @@ func main() {
 		fmt.Println(err.Error())
 	}
 
-	fmt.Printf("%v\n~ %v", decoded.Content, decoded.Author)
+	fmt.Printf(decoded.Content + "\n~ " + decoded.Author)
 }
 
 type Quote struct {
